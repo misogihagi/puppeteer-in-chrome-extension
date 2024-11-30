@@ -1,3 +1,9 @@
+## Extension Usage
+
+Just access https://google.com !
+You can find "Answer to the Ultimate Question of Life, the Universe, and Everything"
+
+
 ## Usage
 
 Those templates dependencies are maintained via [pnpm](https://pnpm.io) via `pnpm up -Lri`.
